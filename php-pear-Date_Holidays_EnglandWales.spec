@@ -6,12 +6,12 @@
 Summary:	%{_pearname} - Driver based class to calculate holidays in England and Wales
 Summary(pl.UTF-8):	%{_pearname} - klasa do obliczania świąt w Anglii oraz Walii
 Name:		php-pear-%{_pearname}
-Version:	0.1.4
+Version:	0.1.5
 Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	54e08d2d6b73002361b5b0984a29ae20
+# Source0-md5:	8c1e793e6c895a3fa04b5d9f8ad643e2
 URL:		http://pear.php.net/package/Date_Holidays_EnglandWales/
 BuildRequires:	php-pear-PEAR >= 1:1.4.0-0.b1
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
